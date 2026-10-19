@@ -20,7 +20,7 @@ To compile and run tests also execute:
 
 ```
 mvn test
-```
+``
 
 (That will be enough to know for the current exercises.)
 
